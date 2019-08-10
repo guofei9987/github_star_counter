@@ -5,5 +5,6 @@ workflow "New workflow" {
 
 action "python" {
   uses = "python"
-  runs = "python github_counter.py guofei9987"
+  runs = "github_counter.py"
+  args = "guofei9987"
 }
