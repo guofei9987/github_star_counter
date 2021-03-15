@@ -1,5 +1,5 @@
 ## count your github stars and forks
-`python github_counter.py github_id`
+`python github_counter.py <github_id>`
 
 demo:
 ```py
